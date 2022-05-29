@@ -1,7 +1,7 @@
 # qb-speed-py
 This is a simple script that tells you, your qBittorrent stats using the WebUI and the qbittorrent-api library.
 
-##### Instructions
+## Instructions
 
 **Install qbittorrent-api via pip**
 
