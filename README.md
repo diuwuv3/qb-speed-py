@@ -1,6 +1,7 @@
 # qb-speed-py
 This is a simple script that tells you, your qBittorrent stats using the WebUI and the qbittorrent-api library.
 
+
 ## Instructions
 
 **Install qbittorrent-api via pip**
@@ -17,8 +18,4 @@ qbt_client = qb.Client(
     password="adminadmin")
 ```
 
-**Start the script**
-
-`python main.py`
-  
 ![screenshot](screenshot.png)
