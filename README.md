@@ -4,10 +4,6 @@ This is a simple script that tells you, your qBittorrent stats using the WebUI a
 
 ## Instructions
 
-**Install qbittorrent-api via pip**
-
-`pip install qbittorrent-api`
-
 **Change these settings in main.py**
 ```python
 # Example
